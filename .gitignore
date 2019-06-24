@@ -23,7 +23,6 @@
 hs_err_pid*
 .idea/
 WebAutomationFramework.iml
-pom.xml
 reports/
 screenshots/
 target/*
